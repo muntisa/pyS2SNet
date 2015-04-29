@@ -1,5 +1,5 @@
 """
-cullpdb2PDBChains = get PDB chains from cullpdb files
+cullpdb2PDBChains = Get PDB chains from cullpdb files
 
 Authors:
 Yong Liu | y.liu@udc.es
